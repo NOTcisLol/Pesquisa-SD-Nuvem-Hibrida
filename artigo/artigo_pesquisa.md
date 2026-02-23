@@ -5,7 +5,7 @@
 ---
 
 **Autor:** Cairo Connerton
-**Instituicao:** [Instituicao]
+**Instituicao:** PUC Goiàs
 **Data:** Fevereiro de 2026
 **Tipo:** Artigo de Pesquisa
 **Formato:** IEEE Conference Paper / Referencias ABNT NBR 6023
