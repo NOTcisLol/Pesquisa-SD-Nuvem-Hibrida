@@ -42,7 +42,7 @@ PyTorch | Hugging Face Diffusers | SD.NEXT | Google Colab | Cloudflare Tunnel | 
 
 ## Autor
 
-Cairo Connerton
+Cairo Alberto
 
 ## Licenca
 
